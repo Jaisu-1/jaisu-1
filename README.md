@@ -15,7 +15,7 @@
   
 1.  👷‍ I’m currently interning at Copart. I'm looking for Full-Time Roles starting 2021 and am open to relocation anywhere<br>
 
-2.  👋Check out my <a href="https://drive.google.com/file/d/1SBhdhJw9gf0zv6Fzv52vbXjeVsnSAa2Z/view?usp=sharing">Resume</a><br>
+2.  👋 Check out my <a href="https://drive.google.com/file/d/1SBhdhJw9gf0zv6Fzv52vbXjeVsnSAa2Z/view?usp=sharing">Resume</a><br>
 
 3.  💬 Talk to me about my internships, my program, my projects, or anything else<br>
 
