@@ -13,12 +13,14 @@
 <a href=https://jaisu-1.github.io target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="mygithub" height="20" width="20"/></a>
 </p>
   
-1.  👷‍ I’m currently interning at Copart. I'm looking for Full-Time Roles starting 2021 and am open to relocation anywhere; Check out my <a href=https://itsjafer.com/Resume.pdf> resume</a><br>
+1.  👷‍ I’m currently interning at Copart. I'm looking for Full-Time Roles starting 2021 and am open to relocation anywhere<br>
 
-2.  💬 Talk to me about my internships, my program, my projects, or anything else<br>
+2.  Check out my <a href="https://drive.google.com/file/d/1SBhdhJw9gf0zv6Fzv52vbXjeVsnSAa2Z/view?usp=sharing">Resume</a><br>
 
-3.  🔭 I’m currently working on Angular, React, Spring and Flask.<br>
+3.  💬 Talk to me about my internships, my program, my projects, or anything else<br>
 
-4.  🌱 I’m currently learning PyTorch, P5.js and trying to integrate Deep Learning with Web Projects.<br>
+4.  🔭 I’m currently working on Angular, React, Spring and Flask.<br>
 
-5.  📫 How to reach me: Anywhere mentioned above, I respond quickly enough.<br>
+5.  🌱 I’m currently learning PyTorch, P5.js and trying to integrate Deep Learning with Web Projects.<br>
+
+6.  📫 How to reach me: Anywhere mentioned above, I respond quickly enough.<br>
