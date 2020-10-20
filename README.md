@@ -13,7 +13,7 @@
 <a href=https://jaisu-1.github.io target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="mygithub" height="20" width="20"/></a>
 </p>
   
-1.  👷‍ I’m currently interning at Copart. I'm looking for Full-Time Roles starting 2021 and am open to relocation anywhere; check out my <a href=https://itsjafer.com/Resume.pdf> resume</a>
+1.  👷‍ I’m currently interning at Copart. I'm looking for Full-Time Roles starting 2021 and am open to relocation anywhere; check out my <a href=https://itsjafer.com/Resume.pdf> resume</a><br>
 
 2.  💬 Talk to me about my internships, my program, my projects, or anything else
 
