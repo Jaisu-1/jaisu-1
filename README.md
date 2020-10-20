@@ -2,15 +2,27 @@
 
 <!--
 **Jaisu-1/jaisu-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Jaisurya Nanduri</h1>
+<h3 align="center">Master's in CS @ <a href=https://www.utdallas.edu target="blank">UT Dallas</a>, BE @ <a href="https://www.bits-pilani.ac.in" target="blank">BITS Pilani, India</a>, Intern @ <a href=https://https://www.copart.com target="blank">Copart</a>, <a href=https://www.commscope.com target="blank">CommScope</a>, Full Time @ <a href=https://www.justdial.com/in target="blank">JustDial</a>, and Research in Natural Language Processing @<a href=https://https://www.bits-pilani.ac.in/ target="blank">BITS Pilani</a></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href=mailto:jaisunanduri1@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="itsjafer" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/itsjafer target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="itsjafer" height="20" width="20" /></a>
+<a href=https://itsjafer.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="itsjafer" height="20" width="20"/></a>
+</p>
+<p>
+  <img src="https://itsjafer.com/baby_jafer.jpeg" width="400" align="right">
+  
+- 👷‍ I’m currently interning at Copart. I'm looking for Full-Time Roles starting 2021 and am open to relocation anywhere; check out my <a href=https://itsjafer.com/Resume.pdf> resume</a>
+
+- 💬 Talk to me about my internships, my program, my projects, or anything else
+
+- 🔭 I’m currently working on Angular, React, Spring and Flask.
+
+- 🌱 I’m currently learning PyTorch, P5.js and trying to integrate Deep Learning with Web Projects.
+
+- 📫 How to reach me: Anywhere mentioned above, I respond quickly enough.
+
+</p>
