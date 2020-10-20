@@ -9,20 +9,18 @@
 
 <p align="center">
 <a href=mailto:jaisunanduri1@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="itsjafer" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/itsjafer target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="itsjafer" height="20" width="20" /></a>
-<a href=https://itsjafer.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="itsjafer" height="20" width="20"/></a>
+<a href=https://https://www.linkedin.com/in/jaisuryananduri/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="itsjafer" height="20" width="20" /></a>
+<a href=https://jaisu-1.github.io target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="mygithub" height="20" width="20"/></a>
 </p>
-<p>
-  <img src="https://itsjafer.com/baby_jafer.jpeg" width="400" align="right">
-  
-- 👷‍ I’m currently interning at Copart. I'm looking for Full-Time Roles starting 2021 and am open to relocation anywhere; check out my <a href=https://itsjafer.com/Resume.pdf> resume</a>
+<p>  
+-  👷‍ I’m currently interning at Copart. I'm looking for Full-Time Roles starting 2021 and am open to relocation anywhere; check out my <a href=https://itsjafer.com/Resume.pdf> resume</a>
 
-- 💬 Talk to me about my internships, my program, my projects, or anything else
+-  💬 Talk to me about my internships, my program, my projects, or anything else
 
-- 🔭 I’m currently working on Angular, React, Spring and Flask.
+-  🔭 I’m currently working on Angular, React, Spring and Flask.
 
-- 🌱 I’m currently learning PyTorch, P5.js and trying to integrate Deep Learning with Web Projects.
+-  🌱 I’m currently learning PyTorch, P5.js and trying to integrate Deep Learning with Web Projects.
 
-- 📫 How to reach me: Anywhere mentioned above, I respond quickly enough.
+-  📫 How to reach me: Anywhere mentioned above, I respond quickly enough.
 
 </p>
