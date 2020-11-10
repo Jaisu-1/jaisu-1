@@ -8,7 +8,7 @@
 <p align="center">
 <a href=mailto:jaisunanduri1@gmail.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="itsjafer" height="20" width="20" /></a>
 <a href=https://https://www.linkedin.com/in/jaisuryananduri/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="itsjafer" height="20" width="20" /></a>
-<a href=https://jaisu-1.github.io target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="mygithub" height="20" width="20"/></a>
+<a href=https://jaisu1.dev target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="mygithub" height="20" width="20"/></a>
 </p>
   
 1.  👷‍ I’m currently interning at Copart. I'm looking for Full-Time Roles starting 2021 and am open to relocation anywhere.<br>
