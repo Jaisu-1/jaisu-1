@@ -13,12 +13,10 @@
   
 1.  👷‍ I’m currently working at AWS Science! Excited to be a part of the Code Reasoning Team<br>
 
-2.  👋 Check out my <a href="https://drive.google.com/file/d/1SBhdhJw9gf0zv6Fzv52vbXjeVsnSAa2Z/view?usp=sharing">Resume.</a><br>
+2.  💬 Talk to me about my work, my program, my projects, or anything else.<br>
 
-3.  💬 Talk to me about my work, my program, my projects, or anything else.<br>
+3.  🔭 I’m currently working on Rust and TypeScript.<br>
 
-4.  🔭 I’m currently working on Rust and TypeScript.<br>
+4.  🌱 I’m currently learning Compiler Construction and Rust <br>
 
-5.  🌱 I’m currently learning Compiler Construction and Rust <br>
-
-6.  📫 How to reach me: Anywhere mentioned above, I respond quickly enough.<br>
+5.  📫 How to reach me: Anywhere mentioned above, I respond quickly enough.<br>
