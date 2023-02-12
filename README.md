@@ -15,8 +15,8 @@
 
 2.  💬 Talk to me about my work, my program, my projects, or anything else.<br>
 
-3.  🔭 I’m currently working on Rust and TypeScript.<br>
+3.  🔭 I’m currently working with Rust and TypeScript.<br>
 
-4.  🌱 I’m currently learning Compiler Construction and Rust <br>
+4.  🌱 I’m currently learning Compiler Construction and Automated Reasoning <br>
 
 5.  📫 How to reach me: Anywhere mentioned above, I respond quickly enough.<br>
