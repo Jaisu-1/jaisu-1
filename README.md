@@ -13,7 +13,7 @@
   
 1.  👷‍ I’m currently working at AWS Science! Excited to be a part of the Code Reasoning Team<br>
 
-2.  💬 Talk to me about my work, my program, my projects, or anything else.<br>
+2.  💬 Talk to me about my work, my projects, or anything else.<br>
 
 3.  🔭 I’m currently working with Rust and TypeScript.<br>
 
