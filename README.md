@@ -11,7 +11,7 @@
 <a href=https://jaisu1.dev target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg alt="mygithub" height="20" width="20"/></a>
 </p>
   
-1.  👷‍ I’m currently working at AWS Science! Excited to be a part of the Code Reasoning Team<br>
+1.  👷‍ I’m currently working at AWS Science!<br>
 
 2.  💬 Talk to me about my work, my projects, or anything else.<br>
 
